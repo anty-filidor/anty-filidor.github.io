@@ -6,5 +6,17 @@ profile_picture:
 ---
 
 <p>
-  Welcome to my site!
+  Hello, Internet Traveller!
 </p>
+
+Welcome to my personal site. My name is Michał (or Michael in English) — I'm a machine learning
+engineer and a doctoral candidate at [WUST](https://pwr.edu.pl/en/). This website highlights my
+research, engineering activities, and some of the teaching I've done over the years.
+
+My academic interests include graph mining, network analysis, and computer vision. On the business
+side, I'm particularly drawn to the commercialisation of research and development projects, with a
+strong emphasis on software reliability and the transition of deep learning models from research
+prototypes to fully-fledged industrial systems.
+
+I'm always happy to talk about these topics — or, for a complete change of pace, the history of
+Central Europe, which happens to be one of my greatest passions.
