@@ -1,0 +1,78 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server
+# process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+#
+# Template and docs
+# Here is documentation of the template used in this project:
+# https://github.com/eliottvincent/bay/tree/master
+
+
+title: Michal Czuba
+description: >-
+  Hello! My name is Michał Czuba. I am a machine learning engineer
+  and a doctoral candidate at WUST.
+baseurl: ""
+og_image: /assets/img/profile-pic.jpg
+
+header:
+  pages:
+    # - name: Home
+    #   slug: /
+    - name: Research
+      slug: research
+    - name: Teaching
+      slug: teaching
+    - name: Reading Log
+      slug: reading_log
+
+footer:
+  show_powered_by: false
+  contact:
+    - type: email
+      name: Email
+      value: michal.czuba@live.com
+  follow:
+    - type: linkedin
+      name: LinkedIn
+      link: https://www.linkedin.com/in/michalczuba
+    - type: github
+      name: GitHub
+      link: http://github.com/anty-filidor
+
+# Build settings
+theme: bay_jekyll_theme
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - build/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+
+# Used for defeating caching
+version: 1
