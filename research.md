@@ -28,7 +28,7 @@ permalink: /research/
 4.  Michał Czuba, Piotr Bródka; _Seed Selection for Linear Threshold Model in Multilayer Networks_; __NetSci__ (International School and Conference on Network Science); Vienna, __Austria__, 10-14.07.__2023__; poster presentation
 3.  Michał Czuba, Piotr Bródka; _Seed Selection for Linear Threshold Model in Multilayer Networks_; International Network for Social Network Analysis - Sunbelt 2023; Portland, USA; 27.06-01.07.2023; oral presentation
 2. Michał Czuba, Piotr Bródka; _Network Diffusion --- a package for simulating spreading of multiple interacting processes_; __DSAA__ (9th International Conference on Data Science and Advanced Analytics); Shenzhen, __China__; 13-16.10.__2022__; oral presentation (virtual)
-1. Michał Czuba, Damian Brzoza, Piotr Górski, _Exibition of Lower Silesian R&D Advancements_; Internationale Funkausstellung Berlin (__IFA__); Berlin, __Germany__; 04-06.09.2019; booth presentation 
+1. Michał Czuba, Damian Brzoza, Piotr Górski, _Exibition of Lower Silesian R&D Advancements_; Internationale Funkausstellung Berlin (__IFA__); Berlin, __Germany__; 04-06.09.__2019__; booth presentation 
 
 # Engineering Competitions
 
@@ -39,4 +39,4 @@ permalink: /research/
 
 # Summer Schools
 
-1. Gustav Bieberstein, Michał Czuba, Fedir Lavryk; TUD|excite Summer School _Patents in Search of New Business_ by __Technische Universität Dresden__; Hoyerswerda, __Germany__; 25-31.08.__2024__; award for the best business model 
+1. Gustav Bieberstein, Michał Czuba, Fedir Lavryk; TUD/excite Summer School _Patents in Search of New Business_ by __Technische Universität Dresden__; Hoyerswerda, __Germany__; 25-31.08.__2024__; award for the best business model 
