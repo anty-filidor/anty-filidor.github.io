@@ -37,6 +37,17 @@ permalink: /research/
 2. Damian Brzoza, Jakub Chmielewski, Michał Czuba, Tomasz Debudaj, Łukasz Józefowicz, Dominik Wasiółka, Piotr Zieliński, Mateusz Zimoch; _Underwater drone - "ROV2"_; __21st RoboSub Competition__; San Diego, __USA__; 30.07-05.08.__2018__; award for the best use of simulation
 1. Damian Brzoza, Jakub Chmielewski, Michał Czuba, Daria Juzak, Mateusz Zimoch; _Underwater drone - "ROV2"_; __Robotic Arena__; Wrocław, __Poland__; 02.12.__2017__; 3rd place
 
-# Summer Schools
+# Summer Schools and Scholarly Programmes
 
-1. Gustav Bieberstein, Michał Czuba, Fedir Lavryk; TUD/excite Summer School _Patents in Search of New Business_ by __Technische Universität Dresden__; Hoyerswerda, __Germany__; 25-31.08.__2024__; award for the best business model 
+1. Scholarship _100/100 im. Haliny Konopackiej i Ignacego Matuszewskiego_ by Totalizator Sportowy Sp. z o.o. and the __Chancellery of the Prime Minister of Poland__; Warsaw, __Poland__; 12.__2018__-11.2019; scholarship programme for 100 students to commemorate the centenary of Poland’s regained independence
+2. TUD/excite Summer School _Patents in Search of New Business_ by __Technische Universität Dresden__; Hoyerswerda, __Germany__; 25-31.08.__2024__; award for the best business model for the project of Gustav Bieberstein, Michał Czuba, Fedir Lavryk
+3. Appointed as a _Visiting Scholar_ at the Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025
+
+# Research Grants
+
+1. _PWr Diving Crew_; __Wrocław University of Science and Technology, National Centre for Research and Development (Poland)__; P/0180/387/2018; Wrocław, Poland; 12.__2016__–09.2018; __Project Manager__
+2. _Commercialisation of Lightweight ROVs with ML-based Operator Assistance Systems_; __Polish Agency for Enterprise Development, SeaMore sp. z o.o.__; POPW.01.01.02-06-0114/20-00; Puławy, Poland; 07.__2021__–09.2023; __Project Manager__
+3. _Adspective — AI-Powered Automation Platform for High-Quality Multimedia Advertisement Creation_; __National Centre for Research and Development (Poland), Vestigit sp. z o.o.__; POIR.01.01.01-00-0218/21; Wrocław, Poland; 01.__2022__-09.2023; __Senior Developer__
+4. _Vestigit Watermark on the Edge — Platform for Securing Streaming in Multi-CDN Environments Using Content Adaptive Fast Watermark (CAFW)_; __National Centre for Research and Development (Poland), Vestigit sp. z o.o.__; POIR.01.01.01-00-0090/22; Wrocław, Poland; 01-12.__2023__; __Data Scientist__
+5. _Control and Spreading Processes in Multilayer Networks_; __National Science Centre (Poland)__; OPUS 2022/45/B/ST6/04145; Wrocław, Poland; 04.__2023__-10.2025; __Contractor__
+6. _Overcoming Multilevel Information Overload (OMINO)_; __Horizon Europe (European Union)__; MSCA 101086321; Wrocław, Poland, Sydney, Australia; 11.__2024__-12.2026; __Contractor__
