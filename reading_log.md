@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading Log
-permalink: /reading_log/
+permalink: /reading_log
 ---
 
 Apart from the academic or professional literature that I am obliged to read, I also enjoy a wide range of recreational books in my spare time. This list is primarily for my own reference (as it is far too modest to impress anyone), yet it also make this site a bit bigger.
