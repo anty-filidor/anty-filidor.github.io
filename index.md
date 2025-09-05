@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile_pic.jpg
+  src: /assets/img/mcz_miami_2024.jpg
   alt: website picture
 ---
 
