@@ -39,6 +39,8 @@ header:
       slug: research
     - name: Teaching
       slug: teaching
+    - name: Tools
+      slug: tools
     - name: Reading Log
       slug: reading_log
 
