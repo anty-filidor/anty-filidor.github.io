@@ -29,7 +29,7 @@ description: >-
   Hello! My name is Michał Czuba. I am a machine learning engineer
   and a doctoral candidate at WUST.
 baseurl: ""
-og_image: /assets/img/profile-pic.jpg
+og_image: /assets/img/pnjc_quebec_2024.jpg
 
 header:
   pages:
@@ -39,6 +39,8 @@ header:
       slug: research
     - name: Teaching
       slug: teaching
+    - name: Tools
+      slug: tools
     - name: Reading Log
       slug: reading_log
 
