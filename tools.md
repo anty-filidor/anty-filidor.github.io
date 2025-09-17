@@ -24,7 +24,7 @@ Here are some original open-source tools and datasets for computational intellig
 
 # Machine Learning Models
 
-- **[whisper](https://github.com/piotrkawa/deepfake-whisper-features)**  
+- **[df-whisper](https://github.com/piotrkawa/deepfake-whisper-features)**  
   Detecting audio deepfakes using Whisper-based features.
 
 - **[ts-net](https://github.com/network-science-lab/infmax-trainer-icm-mln)**  
