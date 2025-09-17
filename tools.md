@@ -4,19 +4,28 @@ title: Tools
 permalink: /tools
 ---
 
-Here are some useful tools and datasets for the domain of graph mining, I have contributed for. They're 
+Here are some original open-source tools and datasets for computational intelligence that I have recently developed or contributed to.
 
-- network diffusion
-https://github.com/anty-filidor/network_diffusion
+# Computational Packages
 
-- mABCD
-https://github.com/KrainskiL/MLNABCDGraphGenerator.jl
+- **[network-diffusion](https://github.com/anty-filidor/network_diffusion)**  
+  A package for the static and dynamic analysis of multilayer networks, including an environment for simulating spreading phenomena.
 
-- ts dataset
-https://github.com/network-science-lab/top-spreaders-dataset
+- **[mABCD](https://github.com/KrainskiL/MLNABCDGraphGenerator.jl)**  
+  A generator of synthetic multilayer networks with a power-law structure, offering a high degree of customisation.
 
-- l2-net
-https://network-diffusion.readthedocs.io/en/latest/guide/net_collection.html#network_diffusion.nets.l2_course_net.get_l2_course_net
+# Datasets
 
-- whisper
-https://github.com/piotrkawa/deepfake-whisper-features
+- **[ts-dataset](https://github.com/network-science-lab/top-spreaders-dataset)**  
+  A collection of over 200 multilayer networks with labelled spreading potentials of their actors.
+
+- **[l2-net](https://network-diffusion.readthedocs.io/en/latest/guide/net_collection.html#network_diffusion.nets.l2_course_net.get_l2_course_net)**  
+  A longitudinal multilayer network capturing peer interactions in an isolated social environment during an abroad language course.
+
+# Machine Learning Models
+
+- **[whisper](https://github.com/piotrkawa/deepfake-whisper-features)**  
+  Detecting audio deepfakes using Whisper-based features.
+
+- **[ts-net](https://github.com/network-science-lab/infmax-trainer-icm-mln)**  
+  Identifying superspreaders in multilayer networks with an inductive graph neural network.

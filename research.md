@@ -6,7 +6,7 @@ permalink: /research
 
 # Published Papers
 
-11. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximization in Multilayer Networks_; __Journal of Complex Networks__; accepted; __2025__; [https://doi.org/10.48550/arXiv.2502.15236](https://doi.org/10.48550/arXiv.2502.15236)
+11. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximization in Multilayer Networks_; __Journal of Complex Networks__; accepted; __2025__; [https://doi.org/10.1093/comnet/cnaf036](https://doi.org/10.1093/comnet/cnaf036)
 10. Michał Czuba, Mateusz Stolarski, Piotr Bielak, Piotr Bródka; _Identifying Super Spreaders in Multilayer Networks_; __Proc. of European Conference of Artificial Intelligence (ECAI)__; accepted; __2025__; [https://doi.org/10.48550/arXiv.2505.20980](https://doi.org/10.48550/arXiv.2505.20980)
 9. Karol Dykiert, Mateusz Stolarski, Michał Czuba, Wojciech Cieżak, Piotr Bródka; _Implementing Network Science to enhance water distribution network pipe roughness calibration_; __Proc. of 21st Computing and Control in the Water Industry Conference (CCWI)__; pp. 1-6; __2025__; [https://doi.org/10.15131/shef.data.29920964](https://doi.org/10.15131/shef.data.29920964)
 8. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _The Multilayer Artificial Benchmark for Community Detection (mABCD)_; __Modelling and Mining Networks__; pp. 172–188; __2025__; [https://doi.org/10.1007/978-3-031-92898-7_12](https://doi.org/10.1007/978-3-031-92898-7_12)
