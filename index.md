@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-Hello <span style="font-size:0.9em;">(Cześć)</span>,
+Cześć <span style="font-size:0.9em;">(Hello)</span>,
 </p>
 
 Welcome to my website. My name is Michał <span style="font-size:0.9em;">(Michael)</span> --- I am a doctoral candidate and a Research & Teaching Assistant at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) in Lower Silesia, Poland. This site highlights my research activities as well as teaching I have undertaken over the years.
