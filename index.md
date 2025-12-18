@@ -1,8 +1,8 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/mcz_miami_2024.jpg
-  alt: website picture
+  src: /assets/img/mcz_sudety_2025.jpg
+  alt: website picture 
 ---
 
 <p>
