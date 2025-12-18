@@ -61,8 +61,8 @@ footer:
       link: http://github.com/anty-filidor
     - type: github
       name: NSL @ GitHub
-      link: http://github.com/anty-filidor
-  ext_urls:
+      link: https://github.com/network-science-lab
+  ext_urls:  # this subtree has been added and is not aligned with the template
     - name: Network Science Lab
       link: https://networks.pwr.edu.pl
     - name: Dept. of Artificial Intelligence

@@ -2,8 +2,8 @@
 
 This is my personal website. It was built with Jekyll and the
 [bay_jekyll_theme](https://github.com/eliottvincent/bay) theme. The template, however, has been
-customised by me. If you delete all contents of the `_layouts` and `assets` directories, the
-original layout will be restored.
+customised by me. If you delete all contents of the `_includes`, `_layouts`,  and `assets`
+directories, the original layout will be restored.
 
 Here are some useful links for maintaining the website:
 - https://jekyllrb.com/docs/configuration/options/

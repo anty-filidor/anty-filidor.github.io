@@ -1,4 +1,4 @@
-ISC License
+ISC Licence
 
 Copyright (c) 2019, Eliott Vincent
 Copyright (c) 2025, Michal Czuba
