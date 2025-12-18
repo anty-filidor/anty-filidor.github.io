@@ -33,30 +33,43 @@ og_image: /assets/img/pnjc_quebec_2024.jpg
 
 header:
   pages:
-    # - name: Home
-    #   slug: /
+    - name: Home
+      slug: /
     - name: Research
       slug: research
     - name: Teaching
       slug: teaching
-    - name: Tools
-      slug: tools
+    # - name: Tools
+    #   slug: tools
     - name: Reading Log
       slug: reading_log
 
 footer:
-  show_powered_by: false
   contact:
     - type: email
-      name: Email
+      name: E-mail (academic)
+      value: michal.czuba@pwr.edu.pl
+    - type: email
+      name: E-mail (business)
       value: michal.czuba@live.com
   follow:
     - type: linkedin
-      name: LinkedIn
+      name: My LinkedIn profile
       link: https://www.linkedin.com/in/michalczuba
     - type: github
-      name: GitHub
+      name: My GitHub profile
       link: http://github.com/anty-filidor
+    - type: github
+      name: NSL @ GitHub
+      link: https://github.com/network-science-lab
+  ext_urls:  # this subtree has been added and is not aligned with the template
+    - name: Network Science Lab
+      link: https://networks.pwr.edu.pl
+    - name: Dept. of Artificial Intelligence
+      link: https://ai.pwr.edu.pl
+    - name: KN ''Robocik''
+      link: http://robocik.pwr.edu.pl
+
 
 # Build settings
 theme: bay_jekyll_theme
@@ -77,4 +90,4 @@ exclude:
   - Gemfile.lock
 
 # Used for defeating caching
-version: 1
+version: 2

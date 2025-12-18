@@ -1,22 +1,16 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/mcz_miami_2024.jpg
+  src: /assets/img/mcz_sudety_2025.jpg
   alt: website picture
 ---
 
 <p>
-  Hello, Internet Traveller!
+Cześć <span style="font-size:0.85em;">(Hello)</span>,
 </p>
 
-Welcome to my personal site. My name is Michał (or Michael in English) — I'm a machine learning
-engineer and a doctoral candidate at [WUST](https://pwr.edu.pl/en/). This website highlights my
-research, engineering activities, and some of the teaching I've done over the years.
+Welcome to my website. My name is Michał <span style="font-size:0.85em;">(Michael)</span> --- I am a doctoral candidate and a Research & Teaching Assistant at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) in Lower Silesia, Poland. This site highlights my research activities as well as teaching I have undertaken over the years.
 
-My academic interests include __graph mining__, __network analysis__, and __machine learning__. On
-the business side, I'm particularly drawn to the __commercialisation of research and development
-projects__, with a strong emphasis on software reliability and the transition of deep learning
-models from research prototypes to fully-fledged industrial systems.
+My academic interests include __complex systems__, __graph mining__, and __machine learning__. On the industrial side, I am particularly drawn to the __commercialisation of R&D projects__, with a strong focus on software reliability and the transition of prototypes into fully-fledged industrial systems.
 
-I'm always happy to talk about these topics — or, for a complete change of pace, the history of
-Central Europe, which happens to be one of my greatest passions.
+I am always happy to discuss these topics --- or, for a complete change of pace, the history of Central Europe, which happens to be one of my greatest passions, although this website does not cover that. 🙂
