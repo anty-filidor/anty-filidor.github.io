@@ -11,8 +11,9 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 # Academic Appointments
 
-2. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025 and 01.__2026__–02.2026
-1. _Research and Teaching Assistant_ (pol. asystent badawczo-dydaktyczny), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 01.__2026__
+3. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 01.__2026__–02.2026
+2. _Research and Teaching Assistant_ (pol. asystent badawczo-dydaktyczny), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 01.__2026__
+1. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025
 
 # Degrees
 
@@ -46,6 +47,8 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 # Contributed Conferences
 
+15. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; poster
+14. & MichałCzuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximisation in Multilayer Networks_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; oral presentation
 13. Michał Czuba, Mateusz Stolarski, Piotr Bielak, Piotr Bródka; _Identifying Super Spreaders in Multilayer Networks_; __ECAI__ <u>(28th European Conference on Artificial Intelligence)</u>; Bologna, __Italy__; 25-30.10.__2025__; oral presentation
 12. Michał Czuba, Mateusz Stolarski, Piotr Bielak, Piotr Bródka; _Identifying Super Spreaders in Multilayer Networks_; __PSSI__ <u>(Polskie Sympozjum Sztucznej Inteligencji)</u>; Wrocław, __Poland__; 11-12.09.__2025__; oral presentation
 11. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _The Multilayer Artificial Benchmark for Community Detection (mABCD)_; __WAW__ <u>(20th Workshop on Modelling and Mining Networks)</u>; Vilnius, __Lithuania__; 30.06-03.07.__2025__; oral presentation

@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/mcz_sudety_2025.jpg
+  src: /assets/img/mcz_newzealand_2026.jpg
   alt: website picture
 ---
 
