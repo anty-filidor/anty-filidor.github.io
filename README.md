@@ -16,3 +16,8 @@ Here are some useful links for maintaining the website:
    Avoid using the system-installed version, as modifying it can destabilise the operating system.  
 2. Install Ruby dependencies: `gem install jekyll bundler bay_jekyll_theme`
 3. Serve the website: `bundle exec jekyll serve`
+
+
+## Other resources
+
+The visitors counter is implemented with [MapMyVisitors](https://mapmyvisitors.com).
