@@ -9,19 +9,19 @@ Below is an overview of my academic activities and a concise outline of my unive
 * Do not remove this line (it will not be displayed)
 {:toc}
 
-# Academic Appointments
+## Academic Appointments
 
 3. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 01.__2026__–02.2026
 2. _Research and Teaching Assistant_ (pol. asystent badawczo-dydaktyczny), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 01.__2026__
 1. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025
 
-# Degrees
+## Degrees
 
 3. _Master of Science_ (pol. magister inżynier); <u>Mechatronics (individual course of study)</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 02.2018-07.2019
 2. _Bachelor of Science_ (pol. inżynier); <u>Computer Science</u>; Faculty of Computer Science and Management, __WUST__; Wrocław, __Poland__; 10.2016–06.2020
 1. _Bachelor of Science_ (pol. inżynier); <u>Control Engineering and Robotics</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 10.2014–02.2018
 
-# Grants
+## Grants
 
 6. _Overcoming Multilevel Information Overload (OMINO)_; __Horizon Europe (European Union)__; MSCA 101086321; Wrocław, Poland, Sydney, Australia; 11.__2024__-12.2026; __Contractor__
 5. _Control and Spreading Processes in Multilayer Networks_; __National Science Centre (Poland)__; OPUS 2022/45/B/ST6/04145; Wrocław, Poland; 04.__2023__-10.2025; __Contractor__
@@ -30,13 +30,14 @@ Below is an overview of my academic activities and a concise outline of my unive
 2. _Commercialisation of Lightweight ROVs with ML-based Operator Assistance Systems_; __Polish Agency for Enterprise Development, SeaMore sp. z o.o.__; POPW.01.01.02-06-0114/20-00; Puławy, Poland; 07.__2021__–09.2023; __Project Manager__
 1. _PWr Diving Crew_; __Wrocław University of Science and Technology, National Centre for Research and Development (Poland)__; P/0180/387/2018; Wrocław, Poland; 12.__2016__–09.2018; __Project Manager__
 
-# Published Papers
+## Published Papers
 
+13. Piotr Bródka, Michał Czuba, Bogumił Kamiński, Łukasz Kraiński, Katarzyna Musial, Paweł Prałat, Mateusz Stolarski; _Twinning Complex Networked Systems: Data-Driven Calibration of the mABCD Synthetic Graph Generator_; __Modelling and Mining Networks (WAW 2026)__; ACCEPTED; __2026__; [10.48550/arXiv.2602.02044](https://doi.org/10.48550/arXiv.2602.02044)
 12. Łukasz Kraiński, Michał Czuba, Piotr Bródka, Paweł Prałat, Bogumił Kamiński, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __Expert Systems with Applications__; vol. 307, pp. 130920; __2026__; [10.1016/j.eswa.2025.130920](https://doi.org/10.1016/j.eswa.2025.130920)
 11. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximization in Multilayer Networks_; __Journal of Complex Networks__; vol. 13, no. 6, pp. cnaf036; __2025__; [10.1093/comnet/cnaf036](https://doi.org/10.1093/comnet/cnaf036)
 10. Michał Czuba, Mateusz Stolarski, Piotr Bielak, Piotr Bródka; _Identifying Super Spreaders in Multilayer Networks_; __Frontiers in Artificial Intelligence and Applications (Proc. of ECAI '25)__; pp. 2195-2202; __2025__; [10.3233/FAIA251060](https://doi.org/10.3233/FAIA251060)
 9. Karol Dykiert, Mateusz Stolarski, Michał Czuba, Wojciech Cieżak, Piotr Bródka; _Implementing Network Science to enhance water distribution network pipe roughness calibration_; __Proc. of 21st Computing and Control in the Water Industry Conference (CCWI)__; pp. 1-6; __2025__; [10.15131/shef.data.29920964](https://doi.org/10.15131/shef.data.29920964)
-8. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _The Multilayer Artificial Benchmark for Community Detection (mABCD)_; __Modelling and Mining Networks__; pp. 172–188; __2025__; [10.1007/978-3-031-92898-7_12](https://doi.org/10.1007/978-3-031-92898-7_12)
+8. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _The Multilayer Artificial Benchmark for Community Detection (mABCD)_; __Modelling and Mining Networks (WAW 2025)__; pp. 172–188; __2025__; [10.1007/978-3-031-92898-7_12](https://doi.org/10.1007/978-3-031-92898-7_12)
 7. Michał Czuba, Piotr Bródka; _Rank-refining seed selection methods for budget constrained influence maximisation in multilayer networks under linear threshold model_; __Social Network Analysis and Mining__; vol. 15, no. 1, pp. 46–25; __2025__; [10.1007/s13278-025-01454-7](https://doi.org/10.1007/s13278-025-01454-7)
 6. Michał B. Paradowski, Piotr Bródka, Michał Czuba, Nicole Whitby; _Peer Interaction Dynamics and Second Language Learning Trajectories During Study Abroad: A Longitudinal Investigation Using Dynamic Computational Social Network Analysis_; __Language Learning__; vol. 74, no. S2, pp. 58–115; __2024__; [10.1111/lang.12681](https://doi.org/10.1111/lang.12681)
 5. Michał B. Paradowski, Piotr Bródka, Michał Czuba, Nicole Whitby; _Dynamic computational social network analysis of language learner interactions: Novel insights for study-abroad second language acquisition_; __Society for Computation in Linguistics__; vol. 7, no. 1; __2024__; [10.7275/scil.2218](https://doi.org/10.7275/scil.2218)
@@ -45,7 +46,7 @@ Below is an overview of my academic activities and a concise outline of my unive
 2. Michał Czuba, Piotr Bródka; _Simulating Spreading of Multiple Interacting Processes in Complex Networks_; __Proc of. 9th International Conference on Data Science and Advanced Analytics (DSAA)__; pp. 1–10; __2022__; [10.1109/DSAA54385.2022.10032425](https://doi.org/10.1109/DSAA54385.2022.10032425)
 1. Michał Czuba, Damian Brzoza, Jakub Chmielewski, Mateusz Zimoch; _The future of underwater exploration_; __Proc. of 9th Symposium Science & Swimming__; pp. 1–10; __2018__; ISBN 978-83-944871-6-4
 
-# Contributed Conferences
+## Contributed Conferences
 
 15. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; poster
 14. & MichałCzuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximisation in Multilayer Networks_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; oral presentation
@@ -63,7 +64,7 @@ Below is an overview of my academic activities and a concise outline of my unive
 2. Michał Czuba, Piotr Bródka; _Network Diffusion --- a package for simulating spreading of multiple interacting processes_; __DSAA__ <u>(9th International Conference on Data Science and Advanced Analytics)</u>; Shenzhen, __China__; 13-16.10.__2022__; oral presentation (virtual)
 1. Michał Czuba, Damian Brzoza, Jakub Chmielewski, Mateusz Zimoch; _The future of underwater exploration_; __9th International Symposium Science & Swimming__; Wrocław, __Poland__, 24-25.05.__2018__; oral presentation
 
-# Engineering Competitions and Fairs
+## Engineering Competitions and Fairs
 
 5. Damian Broza, Michał Czuba, Michał Pogoda, Mateusz Zimoch;  _Flights Predictor_; __AI Games__; Gdańsk, __Poland__; 17-19.01.__2020__; 2nd place
 4. Damian Brzoza, Michał Czuba, Michał Pogoda, Dominik Wasiółka, Mateusz Zimoch; _cardless_; __Open Banking Hackathon__; Warsaw __Poland__; 22-24.11.__2019__; 2nd place
@@ -71,7 +72,7 @@ Below is an overview of my academic activities and a concise outline of my unive
 2. Damian Brzoza, Jakub Chmielewski, Michał Czuba, Tomasz Debudaj, Łukasz Józefowicz, Dominik Wasiółka, Piotr Zieliński, Mateusz Zimoch; _Underwater drone - "ROV2"_; __21st RoboSub Competition__; San Diego, __USA__; 30.07-05.08.__2018__; award for the best use of simulation
 1. Damian Brzoza, Jakub Chmielewski, Michał Czuba, Daria Juzak, Mateusz Zimoch; _Underwater drone - "ROV2"_; __Robotic Arena__; Wrocław, __Poland__; 02.12.__2017__; 3rd place
 
-# Scientific Scholarships and Awards
+## Scientific Scholarships and Awards
 
 3. Doctoral Scientific Scholarship Programme of the __Municipality of Wrocław__; Wrocław, __Poland__; __2025__
 2. TUD/excite Summer School _Patents in Search of New Business_ by __Technische Universität Dresden__; Hoyerswerda, __Germany__; 25-31.08.__2024__; award for the best business model for the project of Gustav Bieberstein, Michał Czuba, Fedir Lavryk
