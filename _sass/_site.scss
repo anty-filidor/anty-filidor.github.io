@@ -1,6 +1,20 @@
 @use "variables" as variables;
 @use "mixins" as mixins;
 
+@font-face {
+  font-family: 'DIN-1451-Mittelschrift';
+  src: url('../fonts/din1451alt.ttf') format('truetype');
+}
+  
+// body {
+//     font-family: 'DIN-1451-Mittelschrift', Charter, Georgia, Helvetica, Arial, sans-serif;
+// }
+
+.site-nav .page-link {
+  font-family: 'DIN-1451-Mittelschrift', sans-serif;
+  font-size: 16px;
+}
+
 .profile-pic {
   float: right;
   width: 202px;
@@ -19,10 +33,10 @@
   font-size: 12px;
 
   h4 {
-    margin-bottom: 0;
-    margin-top: 0;
-    line-height: 20px;
-    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    line-height: 40px;
+    font-size: 16px;
   }
 
   .social-links {

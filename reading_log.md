@@ -24,7 +24,7 @@ Apart from the professional literature, I also enjoy a wide range of recreationa
 2. [**Odrzania: podróż po Ziemiach Odzyskanych**](https://www.goodreads.com/book/show/195157878-odrzania-podr-po-ziemiach-odzyskanych) --- Zbigniew Rokita; 2023; Znak
 1. [**The Holy Roman Empire**](https://www.goodreads.com/book/show/31456148-the-holy-roman-empire) --- Peter H. Wilson; 2017; Penguin Random House
 
-## 2023 and earlier
+## 2023 and Earlier
 
 Unrecorded 🙂
 
