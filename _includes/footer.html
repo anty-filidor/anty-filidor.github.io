@@ -27,7 +27,7 @@
                         {% assign reversed_domain_name = domain_name | split: "" | reverse | join: "" %}
                         {% assign reversed_domain_tld = domain_tld | split: "" | reverse | join: "" %}
                         <span data-resu="{{ reversed_user }}" data-eman-niamod="{{ reversed_domain_name }}"
-                            data-dlt-niamod="{{ reversed_domain_tld }}" id="{{ contact.type }}-link"
+                            data-dlt-niamod="{{ reversed_domain_tld }}" id="{{ contact.name | slugify }}-link"
                             class="link email-link-cloaked">
                             {{- contact.name -}}
                         </span>

@@ -4,7 +4,7 @@ title: Reading Log
 permalink: /reading_log
 ---
 
-Apart from the professional literature, I also enjoy a wide range of recreational books in my spare time. This list is primarily for my own reference (as it is far too modest to be impressive), yet it also make this site a bit bigger.
+Apart from the professional literature, I also enjoy a wide range of recreational books in my spare time. This list is primarily for my own reference (as it is far too modest to be impressive), yet it also makes this site a bit bigger.
 
 ## 2026
 
