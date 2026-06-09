@@ -32,7 +32,8 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 ## Published Papers
 
-13. Piotr Bródka, Michał Czuba, Bogumił Kamiński, Łukasz Kraiński, Katarzyna Musial, Paweł Prałat, Mateusz Stolarski; _Twinning Complex Networked Systems: Data-Driven Calibration of the mABCD Synthetic Graph Generator_; __Modelling and Mining Networks (WAW 2026)__; ACCEPTED; __2026__; [10.48550/arXiv.2602.02044](https://doi.org/10.48550/arXiv.2602.02044)
+14. Michał Czuba, Mateusz Stolarski, Adam Piróg, Piotr Bielak, Piotr Bródka; _Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks_; __arXiv preprint__; __2026__; [10.48550/arXiv.2606.08306](https://doi.org/10.48550/arXiv.2606.08306)
+13. Piotr Bródka, Michał Czuba, Bogumił Kamiński, Łukasz Kraiński, Katarzyna Musial, Paweł Prałat, Mateusz Stolarski; _Twinning Complex Networked Systems: Data-Driven Calibration of the mABCD Synthetic Graph Generator_; __Modelling and Mining Networks (WAW 2026)__; pp. 1–17; __2026__; [10.1007/978-3-032-27193-8_1](https://doi.org/10.1007/978-3-032-27193-8_1)
 12. Łukasz Kraiński, Michał Czuba, Piotr Bródka, Paweł Prałat, Bogumił Kamiński, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __Expert Systems with Applications__; vol. 307, pp. 130920; __2026__; [10.1016/j.eswa.2025.130920](https://doi.org/10.1016/j.eswa.2025.130920)
 11. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximization in Multilayer Networks_; __Journal of Complex Networks__; vol. 13, no. 6, pp. cnaf036; __2025__; [10.1093/comnet/cnaf036](https://doi.org/10.1093/comnet/cnaf036)
 10. Michał Czuba, Mateusz Stolarski, Piotr Bielak, Piotr Bródka; _Identifying Super Spreaders in Multilayer Networks_; __Frontiers in Artificial Intelligence and Applications (Proc. of ECAI '25)__; pp. 2195-2202; __2025__; [10.3233/FAIA251060](https://doi.org/10.3233/FAIA251060)
@@ -48,6 +49,7 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 ## Contributed Conferences
 
+16. Michał Czuba, Mateusz Stolarski, Adam Piróg, Piotr Bielak, Piotr Bródka; _Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks_; __GFM@ICML__ <u>(Graph Foundation Models: A New Era for Graph Machine Learning Workshop at International Conference on Machine Learning)</u>; Seoul, __South Korea__; 10.07.__2026__; poster
 15. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; poster
 14. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximisation in Multilayer Networks_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; oral presentation
 13. Michał Czuba, Mateusz Stolarski, Piotr Bielak, Piotr Bródka; _Identifying Super Spreaders in Multilayer Networks_; __ECAI__ <u>(28th European Conference on Artificial Intelligence)</u>; Bologna, __Italy__; 25-30.10.__2025__; oral presentation

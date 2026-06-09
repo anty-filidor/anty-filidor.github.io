@@ -8,6 +8,9 @@ Apart from the professional literature, I also enjoy a wide range of recreationa
 
 ## 2026
 
+5. [**Harry Potter and the Deathly Hallows**](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) --- J.K. Rowling; 2007; Bloomsbury
+4. [**Harry Potter and the Half-Blood Prince**](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince) --- J.K. Rowling; 2005; Bloomsbury
+3. [**Harry Potter and the Order of the Phoenix**](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix) --- J.K. Rowling; 2003; Bloomsbury
 2. [**Doctor Faustus**](https://www.goodreads.com/book/show/34444.Doctor_Faustus) --- Thomas Mann, translated by H. Lowe Porter; 1996;  Vintage Classics
 1. [**Nierówności po polsku. Dlaczego trzeba się nimi zająć, jeśli chcemy dobrej przyszłości nad Wisłą**](https://lubimyczytac.pl/ksiazka/5119450/nierownosci-po-polsku-dlaczego-trzeba-sie-nimi-zajac-jesli-chcemy-dobrej-przyszlosci-nad-wisla) --- Paweł Bukowski, Jakub Sawulski; 2024; Krytyka Polityczna
 
