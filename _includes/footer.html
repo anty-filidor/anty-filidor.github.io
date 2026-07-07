@@ -19,9 +19,11 @@
                         {% if contact.cloak != false %}
                         {% assign email_parts = contact.value | split: "@" %}
                         {% assign user = email_parts[0] %}
-                        {% assign domain = email_parts[1] | split: "." %}
-                        {% assign domain_name = domain[0] %}
-                        {% assign domain_tld = domain[1] %}
+                        {% assign domain_parts = email_parts[1] | split: "." %}
+                        {% assign domain_tld_index = domain_parts.size | minus: 1 %}
+                        {% assign domain_tld = domain_parts[domain_tld_index] %}
+                        {% assign domain_name_parts = domain_parts | slice: 0, domain_tld_index %}
+                        {% assign domain_name = domain_name_parts | join: "." %}
 
                         {% assign reversed_user = user | split: "" | reverse | join: "" %}
                         {% assign reversed_domain_name = domain_name | split: "" | reverse | join: "" %}
