@@ -8,6 +8,7 @@ Apart from the professional literature, I also enjoy a wide range of recreationa
 
 ## 2026
 
+6. [**Life on Earth**](https://www.goodreads.com/book/show/43239340-life-on-earth) --- David Attenborough; 2019; William Collins
 5. [**Harry Potter and the Deathly Hallows**](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows) --- J.K. Rowling; 2007; Bloomsbury
 4. [**Harry Potter and the Half-Blood Prince**](https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince) --- J.K. Rowling; 2005; Bloomsbury
 3. [**Harry Potter and the Order of the Phoenix**](https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix) --- J.K. Rowling; 2003; Bloomsbury
