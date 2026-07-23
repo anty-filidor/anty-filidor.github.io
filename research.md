@@ -16,7 +16,7 @@ Below is an overview of my academic activities and a concise outline of my unive
 1. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025
 
 ## Degrees
-
+4. _Doctor of Philosophy_ (pol. doktor inżynier); <u>Information and Communication Technology</u>; Engineering and Technical Sciences, __WUST__; Wrocław, __Poland__; 10.2021–07.2026; Dissertation ["On Spreading Phenomena and Influence Maximisation in Multilayer Networks"](https://doi.org/10.5281/zenodo.21499961) defended with distinction; __degree conferral pending__
 3. _Master of Science_ (pol. magister inżynier); <u>Mechatronics (individual course of study)</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 02.2018-07.2019
 2. _Bachelor of Science_ (pol. inżynier); <u>Computer Science</u>; Faculty of Computer Science and Management, __WUST__; Wrocław, __Poland__; 10.2016–06.2020
 1. _Bachelor of Science_ (pol. inżynier); <u>Control Engineering and Robotics</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 10.2014–02.2018
