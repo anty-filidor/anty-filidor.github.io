@@ -9,7 +9,7 @@ profile_picture:
 Cześć <span style="font-size:0.85em;">(Hello)</span>,
 </p>
 
-Welcome to my website. My name is Michał <span style="font-size:0.85em;">(Michael)</span> --- I am a doctoral candidate and a Research & Teaching Assistant at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/) in Lower Silesia, Poland. This site highlights my research activities as well as teaching I have undertaken over the years.
+Welcome to my website. My name is Michał <span style="font-size:0.85em;">(Michael)</span> --- I hold a doctorate in Computer Science and am primarily engaged in industrial R&D at [Ipsos MMA](https://mma.com), alongside academic affiliations with [WUST](https://pwr.edu.pl/en) (Lower Silesia, Poland) and [ZIB](https://www.zib.de) (Berlin, Germany). This site highlights my research activities as well as teaching I have undertaken over the years.
 
 My academic interests include __machine learning on graphs__, __complex network analysis__, and the broader field of __data science__. On the industrial side, I am particularly drawn to the __commercialisation of R&D projects__, with a strong focus on software reliability and the transition of prototypes into fully-fledged industrial systems.
 
