@@ -11,13 +11,13 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 ## Academic Appointments
 
-4. _Assistant Professor_ (pol. adiunkt badawczo-dydaktyczny), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 11.__2026__
-3. _Research Scientist_ (ger. Wissenschaftlicher Mitarbeiter), Department of Modeling and Simulation of Complex Processes, __Zuse Institute Berlin__; Berlin, __Germany__; since 09.__2026__
-2. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025 and 01.__2026__–02.2026
-1. _Research and Teaching Assistant_ (pol. asystent badawczo-dydaktyczny), Department of Artificial Intelligence, __WUST__; Wrocław, __Poland__; 01.__2026__-10.2026
+3. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 01.__2026__–02.2026
+2. _Research and Teaching Assistant_ (pol. asystent badawczo-dydaktyczny), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 01.__2026__
+1. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025
 
 ## Degrees
-4. _Doctor of Philosophy_ (pol. doktor inżynier); <u>Information and Communication Technology</u>; Engineering and Technical Sciences, __WUST__; Wrocław, __Poland__; 10.2021–07.2026; Dissertation ["On Spreading Phenomena and Influence Maximisation in Multilayer Networks"](https://doi.org/10.5281/zenodo.21499961) defended with distinction
+
+4. _Doctor of Philosophy_ (pol. doktor inżynier); <u>Information and Communication Technology</u>; Engineering and Technical Sciences, __WUST__; Wrocław, __Poland__; 10.2021–09.2026; Dissertation ["On Spreading Phenomena and Influence Maximisation in Multilayer Networks"](https://doi.org/10.5281/zenodo.21499961); awarded a distinction
 3. _Master of Science_ (pol. magister inżynier); <u>Mechatronics (individual course of study)</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 02.2018-07.2019
 2. _Bachelor of Science_ (pol. inżynier); <u>Computer Science</u>; Faculty of Computer Science and Management, __WUST__; Wrocław, __Poland__; 10.2016–06.2020
 1. _Bachelor of Science_ (pol. inżynier); <u>Control Engineering and Robotics</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 10.2014–02.2018
@@ -33,7 +33,8 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 ## Published Papers
 
-14. Michał Czuba, Mateusz Stolarski, Adam Piróg, Piotr Bielak, Piotr Bródka; _Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks_; __arXiv preprint__; __2026__; [10.48550/arXiv.2606.08306](https://doi.org/10.48550/arXiv.2606.08306)
+15. Mateusz Stolarski, Michał Czuba, Łukasz Kraiński, Katarzyna Musial, Paweł Prałat, Bogumił Kamiński, Piotr Bródka; _Graph Data Augmentation via Contrastive Generator Inversion (DCBA)_; __Proc. of 5th Learning on Graphs Conference (LoG)__; pp. 1-9; __2026__; [10.48550/arXiv.2610.05653](https://doi.org/10.48550/arXiv.2610.05653)
+14. Michał Czuba, Mateusz Stolarski, Adam Piróg, Piotr Bielak, Piotr Bródka; _Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks_; __Graph Foundation Models @ 43th International Conference on Machine Learning (GFM@ICML)__; __2026__; [10.48550/arXiv.2606.08306](https://doi.org/10.48550/arXiv.2606.08306)
 13. Piotr Bródka, Michał Czuba, Bogumił Kamiński, Łukasz Kraiński, Katarzyna Musial, Paweł Prałat, Mateusz Stolarski; _Twinning Complex Networked Systems: Data-Driven Calibration of the mABCD Synthetic Graph Generator_; __Modelling and Mining Networks (WAW 2026)__; pp. 1–17; __2026__; [10.1007/978-3-032-27193-8_1](https://doi.org/10.1007/978-3-032-27193-8_1)
 12. Łukasz Kraiński, Michał Czuba, Piotr Bródka, Paweł Prałat, Bogumił Kamiński, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __Expert Systems with Applications__; vol. 307, pp. 130920; __2026__; [10.1016/j.eswa.2025.130920](https://doi.org/10.1016/j.eswa.2025.130920)
 11. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximization in Multilayer Networks_; __Journal of Complex Networks__; vol. 13, no. 6, pp. cnaf036; __2025__; [10.1093/comnet/cnaf036](https://doi.org/10.1093/comnet/cnaf036)
