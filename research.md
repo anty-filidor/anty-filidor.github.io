@@ -11,14 +11,14 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 ## Academic Appointments
 
-3. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 01.__2026__–02.2026
-2. _Research and Teaching Assistant_ (pol. asystent badawczo-dydaktyczny), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 01.__2026__
-1. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025
+3. _Assistant Professor_ (pol. adiunkt), Department of Artificial Intelligence, __Wrocław University of Science and Technology (WUST)__; Wrocław, __Poland__; since 11.__2026__
+2. _Visiting Scholar_, Faculty of Engineering and Information Technology, __University of Technology Sydney__; Sydney, __Australia__; 11.__2024__–02.2025 and 01.__2026__–02.2026
+1. _Research and Teaching Assistant_ (pol. asystent), Department of Artificial Intelligence, __WUST__; Wrocław, __Poland__; 01.__2026__–10.2026
 
 ## Degrees
 
-4. _Doctor of Philosophy_ (pol. doktor inżynier); <u>Information and Communication Technology</u>; Engineering and Technical Sciences, __WUST__; Wrocław, __Poland__; 10.2021–09.2026; Dissertation ["On Spreading Phenomena and Influence Maximisation in Multilayer Networks"](https://doi.org/10.5281/zenodo.21499961); awarded a distinction
-3. _Master of Science_ (pol. magister inżynier); <u>Mechatronics (individual course of study)</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 02.2018-07.2019
+4. _Doctor of Philosophy_ (pol. doktor); <u>Information and Communication Technology</u>; Engineering and Technical Sciences, __WUST__; Wrocław, __Poland__; 10.2021–09.2026; Dissertation ["On Spreading Phenomena and Influence Maximisation in Multilayer Networks"](https://doi.org/10.5281/zenodo.21499961); awarded a distinction
+3. _Master of Science_ (pol. magister inżynier); <u>Mechatronics (individual course of study)</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 02.2018–07.2019
 2. _Bachelor of Science_ (pol. inżynier); <u>Computer Science</u>; Faculty of Computer Science and Management, __WUST__; Wrocław, __Poland__; 10.2016–06.2020
 1. _Bachelor of Science_ (pol. inżynier); <u>Control Engineering and Robotics</u>; Faculty of Mechanical Engineering, __WUST__; Wrocław, __Poland__; 10.2014–02.2018
 
