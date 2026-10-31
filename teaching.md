@@ -10,7 +10,7 @@ My office hours at WUST take place on **Wednesdays from 11 a.m. to 1 p.m. CE(S)T
 
 ## Student Projects and Mentoring
 
-Students interested in pursuing a thesis or research project within graph machine learning, complex networks, and related areas of data science are very welcome to get in touch. Feel free to reach out by e-mail at any time.
+Students interested in pursuing a thesis or research project within __graph machine learning, complex networks, and related areas__ of data science are very welcome to get in touch. Feel free to reach out by e-mail at any time.
 
 ## Teaching Materials
 
