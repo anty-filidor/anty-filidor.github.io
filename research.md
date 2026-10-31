@@ -51,6 +51,8 @@ Below is an overview of my academic activities and a concise outline of my unive
 
 ## Contributed Conferences
 
+
+17. Michał Czuba; _Graph Data Augmentation via Contrastive Generator Inversion (DCBA)_; __Learning on Graphs and Geometry Meetup Leipzig__; Leipzig, __Germany__; 9-10.11.__2026__; contributed talk
 16. Michał Czuba, Mateusz Stolarski, Adam Piróg, Piotr Bielak, Piotr Bródka; _Towards Graph Foundation Models for Dynamics in Complex Networked Systems: Lessons from Super-Spreader Identification in Multilayer Networks_; __GFM@ICML__ <u>(Graph Foundation Models: A New Era for Graph Machine Learning Workshop at International Conference on Machine Learning)</u>; Seoul, __South Korea__; 10.07.__2026__; poster
 15. Piotr Bródka, Michał Czuba, Łukasz Kraiński, Bogumił Kamiński, Paweł Prałat, François Théberge; _Multilayer Artificial Benchmark for Community Detection (mABCD)_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; poster
 14. Michał Czuba, Mingshan Jia, Piotr Bródka, Katarzyna Musial; _Applicability of the Minimal Dominating Set for Influence Maximisation in Multilayer Networks_; __NetSciX__ <u>(International School and Conference on Network Science)</u>; Auckland, __New Zealand__; 17--20.02.__2026__; oral presentation
